@@ -54,6 +54,10 @@
 ## <img src="https://badgen.net/badge/Connect/with%20me/blue" alt="Connect"/>
 
 <p align="center">
+    <a href="https://mac-os-portfolio-eight-eta.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
   <a href="https://linkedin.com/in/kuldeep-rajput-24196537b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
