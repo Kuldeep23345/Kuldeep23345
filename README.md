@@ -39,7 +39,7 @@
 ## <img src="https://badgen.net/badge/Connect/with%20me/blue" alt="Connect"/>
 
 <p align="center">
-    <a href="https://mac-os-portfolio-eight-eta.vercel.app/">
+    <a href="https://portfolio-self-iota-82.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
