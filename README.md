@@ -26,14 +26,14 @@
 ## <img src="https://badgen.net/badge/Featured%20Projects/★/black?icon=github" alt="Featured Projects"/>
 
 | Project | Description | Stars |
-| :--- | :--- | :--- |
-| [NewTube][1] | Discover, upload, and stream videos seamlessly with a modern platform built for creators and viewers. | ![stars](https://img.shields.io/github/stars/kuldeeprajput-dev/newtube?style=flat&logo=github) |
-| [docs-editor][2] |Collaborate on rich text documents in real time with live cursors, seamless syncing, secure authentication, and powerful document management. | ![stars](https://img.shields.io/github/stars/kuldeeprajput-dev/docs-editor?style=flat&logo=github) |
-| [MacOS Portfolio][3] | A premium, interactive Mac OS style portfolio project showcasing personal work. | ![stars](https://img.shields.io/github/stars/kuldeeprajput-dev/MacOS-portfolio?style=flat&logo=github) |
-| [Insta Downloader][4] | Download photos, videos, and reels from Instagram easily using a fast and efficient web app. | ![stars](https://img.shields.io/github/stars/kuldeeprajput-dev/insta-things-downloader?style=flat&logo=github) |
-| [Own Typing][5] | A web-based tool designed to help users improve their typing speed and accuracy. | ![stars](https://img.shields.io/github/stars/kuldeeprajput-dev/own-typing?style=flat&logo=github) |
-| [AI Course Finder][6] | AI-powered tool to help users discover free courses with personalized recommendations. | ![stars](https://img.shields.io/github/stars/kuldeeprajput-dev/ai-course-finder?style=flat&logo=github) |
-| [Resume ATS][7] | ATS resume checker analyzing keywords and formatting to improve job application success. | ![stars](https://img.shields.io/github/stars/kuldeeprajput-dev/resume-ats?style=flat&logo=github) |
+| :--- | :--- | :---: |
+| [NewTube][1] | Modern video sharing and streaming platform for creators and viewers. | ![stars](https://img.shields.io/github/stars/kuldeeprajput-dev/newtube?style=flat&logo=github) |
+| [docs-editor][2] | Real-time collaborative rich text editor with live cursors and syncing. | ![stars](https://img.shields.io/github/stars/kuldeeprajput-dev/docs-editor?style=flat&logo=github) |
+| [Resume ATS][3] | ATS resume analyzer for better job application optimization. | ![stars](https://img.shields.io/github/stars/kuldeeprajput-dev/resume-ats?style=flat&logo=github) |
+| [Own Typing][4] | Typing practice tool to improve speed and accuracy. | ![stars](https://img.shields.io/github/stars/kuldeeprajput-dev/own-typing?style=flat&logo=github) |
+| [AI Course Finder][5] | AI-powered platform to discover free online courses. | ![stars](https://img.shields.io/github/stars/kuldeeprajput-dev/ai-course-finder?style=flat&logo=github) |
+| [MacOS Portfolio][6] | Interactive MacOS-inspired portfolio showcasing projects and work. | ![stars](https://img.shields.io/github/stars/kuldeeprajput-dev/MacOS-portfolio?style=flat&logo=github) |
+| [Insta Downloader][7] | Fast web app to download Instagram photos, videos, and reels. | ![stars](https://img.shields.io/github/stars/kuldeeprajput-dev/insta-things-downloader?style=flat&logo=github) |
 
 
 ---
