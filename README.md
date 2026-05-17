@@ -23,7 +23,8 @@
 
 ---
 
-## <img src="https://badgen.net/badge/Featured%20Projects/★/black?icon=github" alt="Featured Projects"/>
+<div align="center">
+ <img align="center" src="https://badgen.net/badge/Featured%20Projects/★/black?icon=github" alt="Featured Projects"/>
 
 | Project | Description | Stars |
 | :--- | :--- | :---: |
@@ -34,6 +35,7 @@
 | [AI Course Finder][5] | AI-powered platform to discover free online courses. | ![stars](https://img.shields.io/github/stars/kuldeeprajput-dev/ai-course-finder?style=flat&logo=github) |
 | [MacOS Portfolio][6] | Interactive MacOS-inspired portfolio showcasing projects and work. | ![stars](https://img.shields.io/github/stars/kuldeeprajput-dev/MacOS-portfolio?style=flat&logo=github) |
 | [Insta Downloader][7] | Fast web app to download Instagram photos, videos, and reels. | ![stars](https://img.shields.io/github/stars/kuldeeprajput-dev/insta-things-downloader?style=flat&logo=github) |
+</div>
 
 
 ---
