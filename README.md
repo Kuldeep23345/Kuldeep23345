@@ -33,7 +33,7 @@
 | [Resume ATS][3] | ATS resume analyzer for better job application optimization. | ![stars](https://img.shields.io/github/stars/kuldeeprajput-dev/resume-ats?style=flat&logo=github) |
 | [Own Typing][4] | Typing practice tool to improve speed and accuracy. | ![stars](https://img.shields.io/github/stars/kuldeeprajput-dev/own-typing?style=flat&logo=github) |
 | [AI Course Finder][5] | AI-powered platform to discover free online courses. | ![stars](https://img.shields.io/github/stars/kuldeeprajput-dev/ai-course-finder?style=flat&logo=github) |
-| [MacOS Portfolio][6] | Interactive MacOS-inspired portfolio showcasing projects and work. | ![stars](https://img.shields.io/github/stars/kuldeeprajput-dev/MacOS-portfolio?style=flat&logo=github) |
+| [MacOS Portfolio][6] | Interactive MacOS-inspired portfolio showcasing projects and work. | ![stars](https://img.shields.io/github/stars/kuldeeprajput-dev/macos-portfolio?style=flat&logo=github) |
 | [Insta Downloader][7] | Fast web app to download Instagram photos, videos, and reels. | ![stars](https://img.shields.io/github/stars/kuldeeprajput-dev/insta-things-downloader?style=flat&logo=github) |
 </div>
 
@@ -62,8 +62,8 @@
 
 [1]: https://github.com/kuldeeprajput-dev/newtube
 [2]:https://github.com/kuldeeprajput-dev/docs-editor
-[3]: https://github.com/kuldeeprajput-dev/MacOS-portfolio
-[4]: https://github.com/kuldeeprajput-dev/insta-things-downloader
-[5]: https://github.com/kuldeeprajput-dev/own-typing
-[6]: https://github.com/kuldeeprajput-dev/ai-course-finder
-[7]: https://github.com/kuldeeprajput-dev/resume-ats
+[3]: https://github.com/kuldeeprajput-dev/resume-ats
+[4]: https://github.com/kuldeeprajput-dev/own-typing
+[5]: https://github.com/kuldeeprajput-dev/ai-course-finder
+[6]: https://github.com/kuldeeprajput-dev/MacOS-portfolio
+[7]: https://github.com/kuldeeprajput-dev/insta-things-downloader
