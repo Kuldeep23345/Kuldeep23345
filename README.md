@@ -19,56 +19,45 @@ I enjoy creating clean user interfaces, developing reliable backend systems, and
 
 ---
 
-<br>
-
 <h2 align="center">Tech Stack</h2>
 
 <table align="center">
   <tr>
-    <td align="center" width="25%">
+    <td align="center">
       <h3>Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=ts" width="42" />
-      <img src="https://skillicons.dev/icons?i=js" width="42" />
-      <img src="https://skillicons.dev/icons?i=react" width="42" />
-      <img src="https://skillicons.dev/icons?i=nextjs" width="42" />
-      <img src="https://skillicons.dev/icons?i=tailwind" width="42" />
-      <br><br>
-      <sub>TypeScript • JavaScript • React • Next.js • Tailwind CSS</sub>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
     </td>
-    <td align="center" width="25%">
+  </tr>
+  <tr>
+    <td align="center">
       <h3>Backend</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs" width="42" />
-      <img src="https://skillicons.dev/icons?i=express" width="42" />
-      <img src="https://skillicons.dev/icons?i=mongodb" width="42" />
-      <img src="https://skillicons.dev/icons?i=postgres" width="42" />
-      <img src="https://skillicons.dev/icons?i=prisma" width="42" />
-      <img src="https://skillicons.dev/icons?i=redis" width="42" />
-      <img src="https://skillicons.dev/icons?i=trpc" width="42" />
-      <br><br>
-      <sub>Node.js • Express.js • tRPC • MongoDB • PostgreSQL • Prisma • Redis</sub>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/tRPC-2596BE?style=flat&logo=trpc&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white" />
     </td>
-    <td align="center" width="25%">
-      <h3>Tools</h3>
-      <img src="https://skillicons.dev/icons?i=git" width="42" />
-      <img src="https://skillicons.dev/icons?i=github" width="42" />
-      <img src="https://skillicons.dev/icons?i=vscode" width="42" />
-      <img src="https://skillicons.dev/icons?i=linux" width="42" />
-      <img src="https://skillicons.dev/icons?i=docker" width="42" />
-      <br><br>
-      <sub>Git • GitHub • VS Code • Linux • Docker</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>Deployment</h3>
-      <img src="https://skillicons.dev/icons?i=vercel" width="42" />
-      <br><br>
-      <sub>Vercel</sub>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>Tools & Deployment</h3>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
     </td>
   </tr>
 </table>
 
 ---
-
-<br>
 
 <h2 align="center">GitHub Stats</h2>
 
@@ -78,8 +67,6 @@ I enjoy creating clean user interfaces, developing reliable backend systems, and
 </p>
 
 ---
-
-<br>
 
 <table>
   <tr>
