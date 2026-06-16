@@ -1,69 +1,114 @@
-<h1 align="center">Welcome to My GitHub!</h1>
+<h1 align="center">KULDEEP RAJPUT</h1>
+
+<h3 align="center">
+  Full-Stack Web Developer <span color="blue"> & </span> React Developer <span color="blue"> & </span> Next.js Developer
+</h3>
+
+<br>
+
+### Hola, World! 👋
+
+> Talk is cheap. Show me the code.
+>
+> -Linus Torvalds
+
+Hi, I'm Kuldeep 😉, a **Software Engineer** and **Full-Stack Web Developer** from India 🇮🇳.
+I build modern, scalable, and performance-focused web applications using **React**, **Next.js**, **TypeScript**, **Node.js**, and **tRPC**.
+
+I enjoy creating clean user interfaces, developing reliable backend systems, and turning ideas into real-world products. I focus on writing maintainable code, improving performance, and building production-ready web applications.
+
+---
+
+<br>
+
+<h2 align="center">Tech Stack</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <h3>Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=ts" width="42" />
+      <img src="https://skillicons.dev/icons?i=js" width="42" />
+      <img src="https://skillicons.dev/icons?i=react" width="42" />
+      <img src="https://skillicons.dev/icons?i=nextjs" width="42" />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="42" />
+      <br><br>
+      <sub>TypeScript • JavaScript • React • Next.js • Tailwind CSS</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>Backend</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs" width="42" />
+      <img src="https://skillicons.dev/icons?i=express" width="42" />
+      <img src="https://skillicons.dev/icons?i=mongodb" width="42" />
+      <img src="https://skillicons.dev/icons?i=postgres" width="42" />
+      <img src="https://skillicons.dev/icons?i=prisma" width="42" />
+      <img src="https://skillicons.dev/icons?i=redis" width="42" />
+      <img src="https://skillicons.dev/icons?i=trpc" width="42" />
+      <br><br>
+      <sub>Node.js • Express.js • tRPC • MongoDB • PostgreSQL • Prisma • Redis</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>Tools</h3>
+      <img src="https://skillicons.dev/icons?i=git" width="42" />
+      <img src="https://skillicons.dev/icons?i=github" width="42" />
+      <img src="https://skillicons.dev/icons?i=vscode" width="42" />
+      <img src="https://skillicons.dev/icons?i=linux" width="42" />
+      <img src="https://skillicons.dev/icons?i=docker" width="42" />
+      <br><br>
+      <sub>Git • GitHub • VS Code • Linux • Docker</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>Deployment</h3>
+      <img src="https://skillicons.dev/icons?i=vercel" width="42" />
+      <br><br>
+      <sub>Vercel</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+<br>
+
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <strong>Kuldeep RajPut</strong> · Software Engineer
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="Prisma"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kuldeeprajput-dev&label=Profile%20views&color=0e75b6&style=flat" alt="kuldeeprajput-dev"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kuldeeprajput-dev&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide_border=false&border_radius=5" alt="Kuldeep Rajput GitHub Stats"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=kuldeeprajput-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="Kuldeep Rajput GitHub Streak"/>
 </p>
 
 ---
+
+<br>
+
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h2>Current Status Quo:</h2>
+      <ul>
+        <li>🔭 Working on <b>Full-Stack Web Development</b></li>
+        <li>🌱 Learning <b>modern web architecture and scalable applications</b></li>
+        <li>🤔 Building <b>production-ready SaaS products</b></li>
+        <li>💬 Ask me about <b>React, Next.js, TypeScript, tRPC, Node.js</b></li>
+        <li>📫 Contact me via <a href="mailto:contact.kuldeeprajput@gmail.com">contact.kuldeeprajput@gmail.com</a></li>
+      </ul>
+    </td>
+    <td width="35%" align="center">
+      <img width="350px" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFoYTJhMWt6a3hoZW4xa2F1d2kyaDk3dmJlcW5sNHFweHVndTI1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"/>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h2 align="left">Connect With Me:</h2>
 
 <div align="center">
- <img align="center" src="https://badgen.net/badge/Featured%20Projects/★/black?icon=github" alt="Featured Projects"/>
 
-| Project | Description | Stars |
-| :--- | :--- | :---: |
-| [NewTube][1] | Modern video sharing and streaming platform for creators and viewers. | ![stars](https://img.shields.io/github/stars/kuldeeprajput-dev/newtube?style=flat&logo=github) |
-| [docs-editor][2] | Real-time collaborative rich text editor with live cursors and syncing. | ![stars](https://img.shields.io/github/stars/kuldeeprajput-dev/docs-editor?style=flat&logo=github) |
-| [Resume ATS][3] | ATS resume analyzer for better job application optimization. | ![stars](https://img.shields.io/github/stars/kuldeeprajput-dev/resume-ats?style=flat&logo=github) |
-| [Own Typing][4] | Typing practice tool to improve speed and accuracy. | ![stars](https://img.shields.io/github/stars/kuldeeprajput-dev/own-typing?style=flat&logo=github) |
-| [AI Course Finder][5] | AI-powered platform to discover free online courses. | ![stars](https://img.shields.io/github/stars/kuldeeprajput-dev/ai-course-finder?style=flat&logo=github) |
-| [MacOS Portfolio][6] | Interactive MacOS-inspired portfolio showcasing projects and work. | ![stars](https://img.shields.io/github/stars/kuldeeprajput-dev/macos-portfolio?style=flat&logo=github) |
-| [Insta Downloader][7] | Fast web app to download Instagram photos, videos, and reels. | ![stars](https://img.shields.io/github/stars/kuldeeprajput-dev/insta-things-downloader?style=flat&logo=github) |
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kuldeepdotcom/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/kuldeeprajput-dev)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:contact.kuldeeprajput@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge\&logo=twitter\&logoColor=white)](https://x.com/kuldeepdotcom)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://kuldeeprajput.in)
+
 </div>
-
-
----
-
-## <img src="https://badgen.net/badge/Connect/with%20me/blue" alt="Connect"/>
-
-<p align="center">
-  <a href="https://portfolio-self-iota-82.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/kuldeepdotcom/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://x.com/kuldeepdotcom">
-    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/kuldeeprajput-dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-[1]: https://github.com/kuldeeprajput-dev/newtube
-[2]:https://github.com/kuldeeprajput-dev/docs-editor
-[3]: https://github.com/kuldeeprajput-dev/resume-ats
-[4]: https://github.com/kuldeeprajput-dev/own-typing
-[5]: https://github.com/kuldeeprajput-dev/ai-course-finder
-[6]: https://github.com/kuldeeprajput-dev/MacOS-portfolio
-[7]: https://github.com/kuldeeprajput-dev/insta-things-downloader
