@@ -127,11 +127,11 @@ I enjoy creating clean user interfaces, developing reliable backend systems, des
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kuldeepdotcom/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat\&logo=github\&logoColor=white)](https://github.com/kuldeeprajput-dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat\&logo=vercel\&logoColor=white)](https://kuldeeprajput.in)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:contact.kuldeeprajput@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=flat\&logo=x\&logoColor=white)](https://x.com/kuldeepdotcom)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat\&logo=vercel\&logoColor=white)](https://kuldeeprajput.in)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat\&logo=github\&logoColor=white)](https://github.com/kuldeeprajput-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kuldeepdotcom/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat\&logo=discord\&logoColor=white)](https://discord.gg/83pUwkanWn)
 
 
