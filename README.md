@@ -132,5 +132,7 @@ I enjoy creating clean user interfaces, developing reliable backend systems, des
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:contact.kuldeeprajput@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=flat\&logo=x\&logoColor=white)](https://x.com/kuldeepdotcom)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat\&logo=vercel\&logoColor=white)](https://kuldeeprajput.in)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat\&logo=discord\&logoColor=white)](https://discord.gg/83pUwkanWn)
+
 
 </div>
