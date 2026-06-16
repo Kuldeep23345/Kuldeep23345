@@ -21,44 +21,72 @@ I enjoy creating clean user interfaces, developing reliable backend systems, and
 
 <h2 align="center">Tech Stack</h2>
 
-<table align="center">
+<table width="100%" align="center">
   <tr>
     <td align="center">
-      <h3>Frontend</h3>
+      <b>Frontend</b>
+      <br><br>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white" />
+      <img src="https://img.shields.io/badge/Radix_UI-161618?style=flat&logo=radixui&logoColor=white" />
+      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" />
+      <img src="https://img.shields.io/badge/Lucide-F56565?style=flat&logo=lucide&logoColor=white" />
     </td>
   </tr>
+
   <tr>
     <td align="center">
-      <h3>Backend</h3>
+      <b>Backend</b>
+      <br><br>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/tRPC-2596BE?style=flat&logo=trpc&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Elysia-000000?style=flat&logo=bun&logoColor=white" />
+      <img src="https://img.shields.io/badge/Zod-3068B7?style=flat&logo=zod&logoColor=white" />
+      <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat&logo=clerk&logoColor=white" />
+      <img src="https://img.shields.io/badge/NextAuth.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Liveblocks-FD2A5C?style=flat&logo=liveblocks&logoColor=white" />
+      <img src="https://img.shields.io/badge/Convex-EE342F?style=flat&logo=convex&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/AI_SDK-000000?style=flat&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google_AI-4285F4?style=flat&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/Mux-000000?style=flat&logo=mux&logoColor=white" />
+      <img src="https://img.shields.io/badge/UploadThing-EF4444?style=flat&logo=upload&logoColor=white" />
     </td>
   </tr>
+
   <tr>
     <td align="center">
-      <h3>Tools & Deployment</h3>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+      <b>Database & ORM / ODM</b>
+      <br><br>
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Neon-00E599?style=flat&logo=neon&logoColor=black" />
+      <img src="https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Upstash-00E9A3?style=flat&logo=upstash&logoColor=black" />
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Drizzle-000000?style=flat&logo=drizzle&logoColor=C5F74F" />
+      <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <b>Deployment</b>
+      <br><br>
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
     </td>
   </tr>
 </table>
 
 ---
-
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
