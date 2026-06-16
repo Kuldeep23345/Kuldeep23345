@@ -53,7 +53,6 @@ I enjoy creating clean user interfaces, developing reliable backend systems, des
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
       <img src="https://img.shields.io/badge/AI_SDK-000000?style=flat&logo=vercel&logoColor=white" />
       <img src="https://img.shields.io/badge/Mux-000000?style=flat&logo=mux&logoColor=white" />
-      <br/>
       <img src="https://img.shields.io/badge/UploadThing-EF4444?style=flat&logo=upload&logoColor=white" />
       <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white" />
     </td>
