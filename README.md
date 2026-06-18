@@ -103,18 +103,25 @@ I enjoy creating clean user interfaces, developing reliable backend systems, des
 
 <table>
   <tr>
-    <td width="65%" valign="top">
-      <h2>Current Status Quo:</h2>
-      <ul>
-        <br/>
-        <br/>
-        <li>🔭 Working on <b>Full-Stack Web Development</b></li>
-        <li>🌱 Learning <b>modern web architecture and scalable applications</b></li>
-        <li>🤔 Building <b>production-ready SaaS products</b></li>
-        <li>💬 Ask me about <b>React, Next.js, TypeScript, tRPC, REST APIs, Node.js</b></li>
-        <li>📫 Contact me via <a href="mailto:contact.kuldeeprajput@gmail.com">contact.kuldeeprajput@gmail.com</a></li>
-      </ul>
-    </td>
+<td width="65%" valign="top">
+  <h2>Current Status Quo:</h2>
+
+  <ul>
+    <br/>
+    <br/>
+    <li>🔭 Working on <b>Full-Stack Web Development</b></li>
+    <li>🌱 Learning <b>modern web architecture and scalable applications</b></li>
+    <li>🤔 Building <b>production-ready SaaS products</b></li>
+    <li>💬 Ask me about <b>React, Next.js, TypeScript, tRPC, REST APIs, Node.js</b></li>
+    <li>📫 Contact me via <a href="mailto:contact.kuldeeprajput@gmail.com">contact.kuldeeprajput@gmail.com</a></li>
+  </ul>
+<br/>
+<br/>
+<br/>
+  <p align="right">
+    <img src="https://komarev.com/ghpvc/?username=kuldeeprajput-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </p>
+</td>
     <td width="35%" align="center">
       <img width="350px" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFoYTJhMWt6a3hoZW4xa2F1d2kyaDk3dmJlcW5sNHFweHVndTI1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"/>
     </td>
