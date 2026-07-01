@@ -95,7 +95,7 @@ I enjoy creating clean user interfaces, developing reliable backend systems, des
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kuldeeprajput-dev&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide_border=false&border_radius=5" alt="Kuldeep Rajput GitHub Stats"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=kuldeeprajput-dev&show_icons=true&theme=dracula&include_all_commits=true&hide_border=false&border_radius=5" alt="Kuldeep Rajput GitHub Stats"/>
   <img height="170" src="https://streak-stats.demolab.com?user=kuldeeprajput-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="Kuldeep Rajput GitHub Streak"/>
 </p>
 
