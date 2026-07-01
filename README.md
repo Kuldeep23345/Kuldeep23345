@@ -10,7 +10,7 @@
 >
 > — Linus Torvalds
 
-Hi, I'm Kuldeep 😉, a **Software Engineer** and **Full-Stack Web Developer** from India 🇮🇳.
+Hi, I'm Kuldeep Rajput 😉, a **Software Engineer** and **Full-Stack Web Developer** from India 🇮🇳.
 I build modern, scalable, and performance-focused web applications using **React**, **Next.js**, **TypeScript**, **Node.js**, **tRPC**, and **REST APIs**.
 
 I enjoy creating clean user interfaces, developing reliable backend systems, designing API-driven applications, and turning ideas into real-world products. I focus on writing maintainable code, improving performance, and building production-ready web applications.
