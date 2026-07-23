@@ -151,9 +151,9 @@ I enjoy creating clean user interfaces, developing reliable backend systems, des
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/kuldeeprajput-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuldeepdotcom/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/83pUwkanWn)
-[![DEV Community](https://img.shields.io/badge/DEV_Community-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/kuldeeprajput-dev)
 [![Peerlist](https://img.shields.io/badge/Peerlist-00AA45?style=flat&logo=peerlist&logoColor=white)](https://peerlist.io/kuldeeprajput)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/No-Winter-6698/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/kuldeepdotcom)
+[![DEV Community](https://img.shields.io/badge/DEV_Community-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/kuldeeprajput-dev)
 
 </div>
